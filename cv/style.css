@@ -1,0 +1,60 @@
+
+body {
+  background-color: #eeeeee;
+  font-family: 'Roboto Slab', serif;
+  color: #eeeeee;
+}
+.developer{
+  color: red;
+  font-weight: bolder;
+}
+.titulo{
+  text-align: center;
+  font-size: 4rem;
+  margin-top: 5rem;
+}
+.sub-titulo{
+  text-align: center;
+  font-size: 2rem;
+}
+.formacao{
+  text-align: center;
+  font-size: 3rem;
+}
+.bloco1-btn{
+  margin: 2.5rem 2.5rem;
+  padding: 1rem 3rem;
+}
+.bloco1-btns{
+  text-align: center;
+  padding-bottom: 2.5rem;
+}
+.bloco1{
+  padding-left: 8rem;
+}
+
+.bloco2{
+  color:#222831;
+}
+.skills-titulo{
+  margin: 4rem 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.skills-b{
+  text-align: center;
+  margin: 0 0 6rem 0;
+}
+.fa-html5, .fa-css3-alt, .fa-js-square{
+  padding: 1rem;
+}
+
+.projects-titulo{
+  text-align: center;
+  padding: 4rem 0;
+}
+
+.fa-project-diagram{
+  text-align: center;
+}
